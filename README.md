@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 
 **📫 Reach me at:**<br>
 
-[![Linkedin: Mohit Patil](https://img.shields.io/badge/-Asmaa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asmaa-saeed-b5582b173/)](https://www.linkedin.com/in/asmaa-saeed-b5582b173/)
+[![Linkedin: Asmaa Saeed](https://img.shields.io/badge/-Asmaa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asmaa-saeed-b5582b173/)](https://www.linkedin.com/in/asmaa-saeed-b5582b173/)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](Asmaa:asmaasaeed289@gmail.com)
+
 
 <div align="center">
 
